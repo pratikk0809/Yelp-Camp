@@ -19,15 +19,6 @@
 - **Maps Integration:** MapTiler
 - **Version Control:** Git & GitHub
 
-## 📁 Folder Structure
-
-Yelp-Camp/
-├── client/ # React frontend
-├── server/ # Node/Express backend
-├── models/ # Mongoose schemas
-├── routes/ # Express routes
-├── config/ # Configuration files (e.g., DB connection)
-└── README.md # Project documentation
 
 ## 📸 Demo
 
